@@ -1,0 +1,6 @@
+{
+  "name": "Aura - AI Patient Coordinator",
+  "description": "Dedicated AI Patient Coordinator and multi-clinic Practice Admin Dashboard, enabling clinics to manage services, pricing, business hours, FAQs, AI prompts, patient leads, and real-time live inbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
